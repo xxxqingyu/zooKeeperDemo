@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>  
+            <id>custom-compiler</id>  
+            <properties>  
+                <JAVA8_HOME>C:\Program Files (x86)\Java\jdk1.8.0_73</JAVA8_HOME>  
+            </properties>  
+</profile>  

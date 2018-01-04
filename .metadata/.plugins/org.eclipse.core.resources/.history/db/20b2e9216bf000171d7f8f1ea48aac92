@@ -1,0 +1,15 @@
+package org.zk;
+
+import org.apache.zookeeper.KeeperException;
+
+public class ListGroup extends ConnectionWatcher {
+	public void list(String groupName){
+		String path="/"+groupName;
+		try{
+			
+		}catch (KeeperException.NoNodeException e) {
+			System.out.println("Group %s does not exist \n",groupName);
+			System.exit(1);
+		}
+	}
+}

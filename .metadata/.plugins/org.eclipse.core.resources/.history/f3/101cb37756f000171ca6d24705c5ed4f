@@ -1,0 +1,23 @@
+package zookeeperStudy.zookeeperClient;
+
+import org.apache.zookeeper.WatchedEvent;
+import org.apache.zookeeper.Watcher;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	private static String connectionString="192.168.102.128:2181";
+	private static int sessionTimeout=999999;
+	
+    public static void main( String[] args )
+    {
+        Watcher watcher=new Watcher(){
+        	public void process(WatchedEvent event){
+        		
+        	}
+        };
+    }
+}

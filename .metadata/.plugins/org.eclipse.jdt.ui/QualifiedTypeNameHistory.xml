@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.zookeeper.Watcher"/>
+<fullyQualifiedTypeName name="org.apache.zookeeper.WatchedEvent"/>
+<fullyQualifiedTypeName name="org.apache.zookeeper.ZooKeeper"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>
